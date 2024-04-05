@@ -10,7 +10,7 @@ My name is Taher.
 
 - 📚 Bachelor's of science in computer science - software technologies (Hons) - Cov. Uni.
 - 🔭 I’m currently working on my personal project using TS in Next.js.
-- 🌱 I’m currently learning Python & Node.js -- exploring Hono.js, Express.js using the serverless and serverfull technlogies.
+- 🌱 I’m currently learning Python & Node.js -- Hono.js, Express.js.
 - ⚡ Fun fact: I love coffee, coding and learing new technogies. 
 - 📫 How to reach me: 7alkiumi@gmail.com 
  
