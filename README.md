@@ -9,20 +9,15 @@ My name is Taher.
 ---
 
 - 📚 Bachelor's of science in computer science - software technologies (Hons) - Cov. Uni.
-- 🔭 I’m currently working on my personal project using TS in Next.js.
 - 🌱 I’m currently learning Python & Node.js -- Hono.js, Express.js.
-- ⚡ Fun fact: I love coffee, coding and learing new technogies. 
 - 📫 How to reach me: 7alkiumi@gmail.com 
- 
 
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
  
 
