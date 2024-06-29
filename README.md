@@ -9,7 +9,7 @@ My name is Taher.
 ---
 
 - 📚 Bachelor's of science in computer science - software technologies (Hons) - Cov. Uni.
-- 🌱 I’m currently learning Python & Node.js -- Hono.js, Express.js.
+- 🌱 I’m currently learning & testing cool stuff in Python, Node.js (Hono.js, Express.js) & GO Lang.
 - 📫 How to reach me: 7alkiumi@gmail.com 
 
 
