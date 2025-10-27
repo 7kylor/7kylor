@@ -12,8 +12,8 @@ and optimizing models for on-device inference and real-time processing.
 
 
 <div align="left" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7kylor&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=default&hide_border=true" height="300" 
-alt="languages graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7kylor&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=default&hide_border=true">
+  <img  src="https://github-readme-stats.vercel.app/api?username=7kylor&show_icons=true&locale=en&hide_border=true" />
 </div>
 
 
