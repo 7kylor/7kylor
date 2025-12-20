@@ -1,8 +1,8 @@
-<h5 align="left">“Stay Hungry, Stay Foolish”</h2>
+<span align="left">“Stay Hungry, Stay Foolish”</span>
 
 <div align="left">
 📚 BSc (Hons) SFT - Cov. Uni., GPA 4.0
   <br/>
-🧠 ML Researcher - Innovating Towards the ASI.
+🧠 Software Engineer & ML Engineer & Researcher - Innovating Towards the ASI.
 </div>
  
